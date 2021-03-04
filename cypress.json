@@ -1,0 +1,6 @@
+{
+    "defaultCommandTimeout": 10000,
+    "eyesTimeout": 18000,
+    "experimentalStudio": true,
+    "baseUrl": "https://auspost.com.au/"
+  }
